@@ -1,0 +1,20 @@
+[
+    {
+        "nombre": "Equilibrio gatos",
+        "precio": "1300",
+        "disponible": "20",
+        "descripcion": "Ración para gatos adultos de interior. Alimento balanceado."
+    },
+    {
+        "nombre": "Pedigree",
+        "precio": "1800",
+        "disponible": "15",
+        "descripcion": "Ración para perros cachorros. Alimento balanceado."
+    },
+    {
+        "nombre": "Caty",
+        "precio": "500",
+        "disponible": "35",
+        "descripcion": "Ración para gatitos. Alimento balanceado."
+    }
+]
